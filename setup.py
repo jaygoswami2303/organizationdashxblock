@@ -24,7 +24,7 @@ setup(
     name='organizationdashxblock-xblock',
     version='0.1',
     description='organizationdashxblock XBlock',   # TODO: write a better description.
-    license='UNKNOWN',          # TODO: choose a license: 'AGPL v3' and 'Apache 2.0' are popular.
+    license='MIT',          # TODO: choose a license: 'AGPL v3' and 'Apache 2.0' are popular.
     packages=[
         'organizationdashxblock',
     ],
