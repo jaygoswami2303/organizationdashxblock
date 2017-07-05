@@ -1,5 +1,12 @@
 # organizationdashxblock
 
+
+The xblock in this repository works on open edX platform.
+
+#### Requirements
+[course_dashboard_api](https://github.com/jaygoswami2303/course_dashboard_api.git)
+[organization_dashboard_api](https://github.com/DhruvThakker/organization_dashboard_api.git)
+
 ### Installation
 
 * Clone the repository:
